@@ -1,0 +1,16 @@
+Package: ros2-base-packages
+Version: 1.0.0
+Architecture: arm64
+Maintainer: Ewen BRUN @3wnbr1
+Installed-Size: 326353
+Depends: clang-format, clang-tidy, cppcheck, curl, graphicsmagick-libmagick-dev-compat, libassimp-dev, libatlas3-base, libbenchmark-dev, libblas-dev, libboost-all-dev, libboost-program-options1.67.0, libboost-python1.67.0, libbullet-dev, libconsole-bridge-dev, libcurl4-openssl-dev, libeigen3-dev, libfreetype6, libgl1-mesa-dev, libglu1-mesa-dev, libgraphicsmagick++1-dev, liblapack-dev, liblog4cxx-dev, libncurses5-dev, libopencv-dev, libpyside2-dev, libqt5core5a, libqt5gui5, libqt5opengl5, libqt5widgets5, libshiboken2-dev, libspdlog-dev, libsqlite3-dev, libsuitesparse-dev, libtbb-dev, libtinyxml-dev, libtinyxml2-dev, libx11-dev, libxaw7-dev, libxml2-utils, libxrandr-dev, libyaml-dev, libzmq3-dev, libzstd-dev, pkg-config, pydocstyle, pyflakes3, pyqt5-dev, python-mock, python3-babeltrace, python3-catkin-pkg-modules, python3-cryptography, python3-empy, python3-flake8, python3-ifcfg, python3-lark-parser, python3-lttng, python3-lxml, python3-matplotlib, python3-mock, python3-mypy, python3-netifaces, python3-numpy, python3-pkg-resources, python3-psutil, python3-pycodestyle, python3-pydot, python3-pyqt5, python3-pyqt5.qtsvg, python3-pyside2.qtsvg, python3-rosdistro-modules, python3-setuptools, python3-sip-dev, python3-yaml, qtbase5-dev, qtbase5-dev, shiboken2, uncrustify, uuid-dev
+Filename: ./ros2-base-packages_1.0.0_arm64.deb
+Size: 88996292
+MD5sum: 10eac30b18601b02fdbc5807f8d00e71
+SHA1: 32a3204f9b24048f9213950c970b476ba30fa798
+SHA256: 881abb387988a95d38a58bf23fffa8ff09ddf8802837c4ddc9e8c72ef4a9f23a
+Section: default
+Priority: extra
+Description: Base ROS2 Foxy debian buster aarch64 package inc navigation2 & TEB
+Vendor: Robotique-ECAM
+
