@@ -11,8 +11,8 @@ You need to be running Debian Buster ARM64 (raspbian arm64 included)
 #### Setup
 
 To add this repository, use :
-```
-curl -so /etc/apt/sources.list.d/robotique-ecam.list https://funtech-makers.ecam.fr/mothership/packages.list
+```bash
+sudo sh -c "curl https://funtech-makers.ecam.fr/mothership/packages.list > /etc/apt/sources.list.d/robotique-ecam.list"
 sudo apt update
 ```
 
